@@ -5,7 +5,7 @@
 //============================================================================
 //Autores: 
 //Alberto Chamizo Barrio
-//
+//Daniel Montero Palomo
 
 #include <stdio.h>
 #include <iostream>
