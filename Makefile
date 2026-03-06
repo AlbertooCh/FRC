@@ -1,6 +1,6 @@
 all:
-	g++ -fpermissive Sesion1.cpp linkLayer.a -o Sesion1 -lpcap -pthread
+	g++ -fpermissive Sesion2.cpp linkLayer.a -o Sesion2 -lpcap -pthread
 run:
-	sudo ./Sesion1
+	sudo ./Sesion2
 clean:
-	rm -f Sesion1
+	rm -f Sesion2
